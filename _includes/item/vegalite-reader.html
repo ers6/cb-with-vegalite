@@ -1,0 +1,24 @@
+
+<div>
+<div id="vis"></div>
+<script>
+  (function(vegaEmbed) {
+    // var spec = "{{child.object_location}}";
+    var spec = "https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/allen_county_public_library_geneaology_center/scans_per_month.json";
+    var embedOpt = {"mode": "vega-lite"};
+
+    function showError(el, error){
+        el.innerHTML = ('<div style="color:red;">'
+                        + '<p>JavaScript Error: ' + error.message + '</p>'
+                        + "<p>This usually means there's a typo in your chart specification. "
+                        + "See the javascript console for the full traceback.</p>"
+                        + '</div>');
+        throw error;
+    }
+    const el = document.getElementById('vis');
+    vegaEmbed("#vis", spec, embedOpt)
+      .catch(error => showError(el, error));
+  })(vegaEmbed);
+
+</script>
+</div>

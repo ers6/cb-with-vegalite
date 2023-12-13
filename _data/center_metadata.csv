@@ -1,0 +1,76 @@
+objectid,scan_center_ids,latitude,longitude,title,data_repo_link,center_visuals_path,display_template
+center001,indiana,41.07773159,-85.14224798,Allen County Public Library Geneaology Center,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,allen_county_public_library_geneaology_center/,scan_center
+center002,tt_amnh,"40.78192527034579,",-73.97246471,American Museum of Natural History,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,american_museum_of_natural_history/,scan_center
+center003,tt_numismatic,40.72401342,-74.0064435,American Numismatic Society,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,american_numismatic_society/,scan_center
+center004,tt_louisville,38.25759766,-85.71422071,American Printing House for the Blind,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,american_printing_house_for_the_blind/,scan_center
+center005,tt_swinburne,-37.82169275,145.0389975,Analysis and Policy Observatory (APO),https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,analysis_and_policy_observatory_(apo)/,scan_center
+center007,boston; Boston; tt_bostonuniversity,42.34936189,-71.07819992,Boston Public Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,boston_public_library/,scan_center
+center008,euston,51.528702,-0.12761,British Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,british_library/,scan_center
+center009,providence; tt_providence,41.82598954,-71.40246227,Brown University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,brown_university/,scan_center
+center010,honolulu,21.64181757,-157.9265819,"BYU, Hawaii",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,byu_hawaii/,scan_center
+center011,rexburg,43.81513782,-111.7835769,"BYU, Idaho Family History Library",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,byu_idaho_family_history_library/,scan_center
+center012,provo; brussels,"40.24888001047114, -111.64850939879179",-111.66089,"BYU, Provo",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,byu_provo/,scan_center
+center013,tt_calacademy,37.77042434,-122.4661162,California Academy of Sciences,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,california_academy_of_sciences/,scan_center
+center014,sacramento,38.57603262,-121.4962643,California State Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,california_state_library/,scan_center
+center015,tt_jakarta,-6.176488669,106.8174559,"Centre for Strategic and International Studies, Jakarta",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,centre_for_strategic_and_international_studies_jakarta/,scan_center
+center016,saltlakecity,40.77200728,-111.8906814,Church History Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,church_history_library/,scan_center
+center017,tt_clatsopcounty,46.18852036,-123.8254003,Clatsop County Historical Society,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,clatsop_county_historical_society/,scan_center
+center018,clemson,34.67345992,-82.8367119,Clemson University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,clemson_university/,scan_center
+center019,nyc,40.80657713,-73.96320572,Columbia University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,columbia_university/,scan_center
+center020,shenzhen; china,113.9856083,"22.598147246440938,",Datum Data Co. Ltd.,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,datum_data_co_ltd/,scan_center
+center021,durham; durham2; Durham,36.00354706,-78.93830223,Duke University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,duke_university/,scan_center
+center022,utah,40.77037084,-111.8945972,Family Search Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,family_search_library/,scan_center
+center023,tt_georgetown,"38.90659980589519, -77.07223903173019",-77.07212976,Georgetown University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,georgetown_university/,scan_center
+center024,tt_getty; valencia,34.07768084,-118.4752916,Getty Research Institute,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,getty_research_institute/,scan_center
+center025,hamilton,43.26097698,-79.8703973,Hamilton Public Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,hamilton_public_library/,scan_center
+center026,tt_harvardernstmayr; tt_harvardwidener,42.37690652,-71.11665402,Harvard,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,harvard/,scan_center
+center027,hongkong; Hong Kong,22.31836625,114.181248,Hong Kong,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,hong_kong/,scan_center
+center028,poughkeepsie,41.58494026,-73.8016634,Hopewell Junction,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,hopewell_junction/,scan_center
+center029,cebu,10.31803327,123.9205454,"Innodata Knowledge Services, Inc.",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,innodata_knowledge_services_inc/,scan_center
+center030,IIIT Hyderabad; CCLHYDERBAD; CCLHYDERABAD; S.V.Digital LibraryTTD; CCL HYDERABAD,17.45672402,78.34022488,International Institute of Information Technology Hyderabad,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center031,sfdowntown; tt_sanfrancisco; arch; sanfrancisco,37.78244229,-122.4717902,Internet Archive Headquarters,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,internet_archive_headquarters/,scan_center
+center032,sheridan; miss,37.80039616,-122.4603638,Internet Archive Sheridan Headquarters,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,internet_archive_sheridan_headquarters/,scan_center
+center033,rich; richmond; richflorida,37.92950359,-122.3459874,Internt Archive Physical Archive,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,internt_archive_physical_archive/,scan_center
+center034,clarksville,-76.90066207,-87.36517104,John Hopkins University Library Offsite Storage,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,john_hopkins_university_library_offsite_storage/,scan_center
+center035,Kahle/Austin Foundation,37.79621158,-122.4492636,Kahle/Austin Foundation,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center036,capitolhill,38.8895692,-77.0045688,Library of Congress,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,library_of_congress/,scan_center
+center037,mobot,38.6170646,-90.26278742,Missouri Botanical Garden,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center038,beltsville,39.02352526,-76.9216014,National Agricultural Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,national_agricultural_library/,scan_center
+center039,edinburgh,55.94870434,-3.191972202,National Library of Scotland,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,national_library_of_scotland/,scan_center
+center040,london; lond,51.49684189,-0.176270642,"Natural History Museum Library, London",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,natural_history_museum_library_london/,scan_center
+center041,tt_nybg,40.86181013,-73.8809266,New York Botanical Garden,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,new_york_botanical_garden/,scan_center
+center042,raleigh,35.78748428,-78.66939426,North Carolina State University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,north_carolina_state_university/,scan_center
+center043,tt_oberlin,41.29341848,-82.22281366,Oberlin College Libraries,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,oberlin_college_libraries/,scan_center
+center044,Osmania University,17.41379886,78.52871404,Osmania University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center045,tt_pem,42.71459464,-70.90700382,Peabody Essex Museum,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,peabody_essex_museum/,scan_center
+center046,tt_perkins,42.36138709,-71.17525908,Perkins School for the Blind,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,perkins_school_for_the_blind/,scan_center
+center047,bali,-8.685606156,115.2297763,Perpustakaan Provinsi Bali,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center048,AP Press Academy Archives,16.50612678,80.64675882,Press Academy of Andhra Pradesh,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center049,nj; tt_pts,40.34604013,-74.66685643,Princeton University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,princeton_university/,scan_center
+center050,RMSC-IIITH; RMSC_IIITH,17.45672402,78.34022488,"Regional Mega Scanning Center by IIT, Hyderbad",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center051,tt_riks,37.59104552,127.0281313,Research Institute of Korean Studies,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,research_institute_of_korean_studies/,scan_center
+center052,sfciviccenter,37.77914204,-122.4157906,San Francisco Public Library,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,san_francisco_public_library/,scan_center
+center053,washingtondc; Capitolhill,"38.891327348794235, -77.02586403862762",-76.99963604,Smithsonian Libraries and Archives,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,smithsonian_libraries_and_archives/,scan_center
+center054,tt_stanfordlaw,37.4239279,-122.1674727,Stanford University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,stanford_university/,scan_center
+center055,harrisburg; tt_harrisburg,40.2650287,-76.88065236,State Library of Pennsylvania,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,state_library_of_pennsylvania/,scan_center
+center056,tt_statenisland,40.64492345,-74.10271703,Staten Island Museum,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,staten_island_museum/,scan_center
+center057,manhattan,40.71867548,-74.00374316,The Archive of Contemporary Music,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,the_archive_of_contemporary_music/,scan_center
+center058,tt_osu,40.00685718,-83.03021857,The Ohio State University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,the_ohio_state_university/,scan_center
+center059,tt_sok; tt_bangalore,13.01508353,77.58188903,The Servants of Knowledge,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,the_servants_of_knowledge/,scan_center
+center060,trent,44.35924592,-78.28865505,Trent University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center061,la; iala; santamonica,"34.071863589276, -118.45416814232854",-118.2538418,UCLA,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,ucla/,scan_center
+center062,ill; il,40.10440926,-88.22933583,UIUC,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,uiuc/,scan_center
+center063,chapelhill,35.91177641,-79.04727727,UNC Chapel Hill,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,unc_chapel_hill/,scan_center
+center064,guatemala,14.60594769,-90.50534962,Universidad Francisco Marroquín,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,universidad_francisco_marroquín/,scan_center
+center065,alberta,53.52319337,-113.5271984,University of Alberta,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_alberta/,scan_center
+center066,beijing,40.40857413,116.6825007,University of Chinese Academy of Sciences,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_chinese_academy_of_sciences/,scan_center
+center067,hbl_storrs,41.80696142,-72.25146626,University of Connecticut,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,,scan_center
+center068,gainesville,29.67605506,-82.34584836,University of Florida,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_florida/,scan_center
+center069,maryland,"38.98690162117241, -76.94130975499546",-77.173238,"University of Maryland, College Park",https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_maryland_college_park/,scan_center
+center070,pretoria,"-25.75484280055574,",28.2314278,University of Pretoria,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_pretoria/,scan_center
+center071,uoft; UofT,43.66312452,-79.3955813,University of Toronto,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_toronto/,scan_center
+center072,tt_victoria,48.46368117,-123.3096647,University of Victoria,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_victoria/,scan_center
+center073,tt_warwick,52.38191585,-1.562005427,University of Warwick,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,university_of_warwick/,scan_center
+center074,tt_stlouis,38.65014738,-90.32838852,Washington University in St. Louis,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,washington_university_in_st_louis/,scan_center
+center075,amherst,42.32188825,-72.52766762,Yiddish Book Center,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,yiddish_book_center/,scan_center
+center076,hangzhou,30.30877701,120.0865531,Zhejiang University,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,zhejiang_university/,scan_center
