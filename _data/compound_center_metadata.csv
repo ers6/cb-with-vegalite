@@ -1,4 +1,4 @@
 objectid,parentid,display_template,scan_center_ids,latitude,longitude,center_name,data_repo_link,center_visuals_path,object_location
 center000,,compound_object,indiana,41.07773159,-85.14224798,Allen County Public Library Geneaology Center,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,allen_county_public_library_geneaology_center/,
-center001,center000,data-visualization,,,,,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,allen_county_public_library_geneaology_center/,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/allen_county_public_library_geneaology_center/scans_per_month.json
-center002,,data-visualization,,,,,,,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/british_library/scans_per_month.json
+center001,center000,data-visualization,,,,,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/,allen_county_public_library_geneaology_center/,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/british_library/scans_per_month.json,
+center002,,data-visualization,euston,,,,,,https://raw.githubusercontent.com/ers6/ia_scanning_labor_data/main/center_visuals/british_library/scans_per_month.json,
