@@ -15,6 +15,6 @@ At the moment, each center has 2 child object visualizations associated with it.
 
 Both the bar chart and scatter plot visualizations are not rendering properly in different ways.
 
-The bar chart only shows up after I readjust the size of my browser window (doesn't matter if it's bigger or smaller- it just need to be readjusted to show up at all). The scatter plot doesn't show up at all, but when I copy the json file into vegalite's online editor, it works properly. 
+The bar chart only shows up after I readjust the size of my browser window (doesn't matter if it's bigger or smaller- it just need to be readjusted to show up at all). The scatter plot doesn't show up at all, but when I copy the json file into vegalite's online [editor](https://vega.github.io/editor/#/custom/vega-lite), it works properly. 
 
 This has led me to believe there's a problem with the sizing of the windows of the vegalite-maker template and the pop-up child window. that's causing the bar chart to not render until the window is readjusted and the scatter plot to fail to render at all. 
