@@ -1,10 +1,8 @@
-# CollectionBuilder-CSV
+# CollectionBuilder-with-Vegalite-Experiment
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
-
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+I'm trying to create data visualization item type for an child object in CB using [vegalite](https://vega.github.io/vega-lite/) , which is a javascript data visualization library. 
+- Specifically, I have a project exploring labor conditions of book scanning workers in the internet archive. Doing data archaeology and analysis, we've found that these working conditions are far worse for book scanning workers employed at business process outsourcing firms in the global South as opposed to their counterparts at academic libraries in the global North. 
+- I'm exploring using collection builder to create a website for the project. Each scanning center would be a parent object. It would have multiple child objects serving as data visualizations about working conditions at the scanning center (parent object).
 
 ## Brief Overview of Building a Collection
 
