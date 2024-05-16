@@ -1,9 +1,16 @@
 
-<div id="vis" style="width: 100%; height: 668px;"></div>
+<div id="vis" style="width: 100%; height: 668px;">
 <div>
 <script>
 
+
+
 var childModal = document.getElementById('{{ child.objectid }}')
+
+childModal.addEventListener('hidden.bs.modal', event=>
+{
+  var spec = null;
+})
 
 childModal.addEventListener('shown.bs.modal', event => {
 
@@ -25,3 +32,4 @@ childModal.addEventListener('shown.bs.modal', event => {
 })
 
 </script></div>
+</div>
